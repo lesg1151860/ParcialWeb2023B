@@ -6,17 +6,21 @@ header, footer{
     margin: 1%;
     padding: 1%;
 }
-
-
+h1{
+    text-align: center;
+    size: 2em;
+    display: inline-block;
+}
+img{
+    max-width: 60px;
+}
 footer{
     background-color: #4563a8;
     text-align: center;
     min-height: 80px;
     max-height: 80px;
 }
-.col-sm-8{
-    background-color: blue;
-}
+
 .col-sm-4{
     background-color: chocolate;
     
